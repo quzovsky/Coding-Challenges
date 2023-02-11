@@ -27,3 +27,4 @@ for i in range(q):
                 ans.append('NO')
 for i in range(len(ans)):
     print(ans[i])
+#https://quera.org/contest/assignments/44345/problems/148507
