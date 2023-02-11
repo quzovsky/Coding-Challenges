@@ -54,3 +54,4 @@ for i in range(q):
 for i in range(len(report)):
     if report[i]!=None:
         print(report[i])
+#https://quera.org/contest/assignments/44345/problems/148508
