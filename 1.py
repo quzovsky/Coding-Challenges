@@ -20,3 +20,4 @@ for i in range(t):
     ans.append(result(sumest,sumpers))
 for i in range(len(ans)):
     print(ans[i])
+    #https://quera.org/contest/assignments/44345/problems
