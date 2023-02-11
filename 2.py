@@ -31,3 +31,4 @@ for i in range(k):
     results.append((3*resultk.count('t'))-(resultk.count('f')))
 for i in range(k):
     print(results[i])
+#https://quera.org/contest/assignments/44345/problems/148511
